@@ -1,1 +1,1 @@
-# Servo-prediction-using-Linear-Regression
+# Servo prediction using Linear Regression
